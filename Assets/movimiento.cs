@@ -8,6 +8,7 @@ public class movimiento : MonoBehaviour
     void Start()
     {
         Debug.Log("holamundo!!");
+        Debug.Log("holamarte");
     }
 
     // Update is called once per frame
